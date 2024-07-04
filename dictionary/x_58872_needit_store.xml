@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="47c111c3830302103f90b8a6feaad3ac" extends="alm_asset" label="Store" max_length="40" name="x_58872_needit_store" type="collection">
+        <element display="true" label="color" max_length="40" name="color" type="color"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
